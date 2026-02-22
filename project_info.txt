@@ -1,0 +1,11 @@
+Problem Chosen: Problem 5 – Sales Summary Dashboard
+
+Dataset Used:
+sales.csv
+
+How the Dataset is Used:
+The dataset is loaded using pandas.
+Total sales per product are calculated.
+A line chart is generated using matplotlib.
+A summary report is created based on calculated results.
+All calculations are done dynamically without hardcoding data.

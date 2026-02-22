@@ -1,0 +1,16 @@
+Total Sales: ₹209500
+
+Monthly Summary:
+Month
+1    70000
+2    55000
+3    26000
+4    58500
+Name: Amount, dtype: int64
+Top Product: Laptop
+Total Sales: ₹209500
+Total Sales: ₹209500
+Total Sales: ₹209500
+Total Sales: ₹209500
+Total Sales: ₹209500
+Total Sales: ₹209500
