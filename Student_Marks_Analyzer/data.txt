@@ -1,0 +1,8 @@
+===== Average Scores =====
+Math: 66.09
+Reading: 69.17
+Writing: 68.05
+
+===== Highest & Lowest (Math) =====
+Highest Math Score: 100
+Lowest Math Score: 0

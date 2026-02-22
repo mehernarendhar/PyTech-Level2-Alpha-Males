@@ -1,0 +1,14 @@
+Problem Chosen: Problem 3 – Student Marks Analyzer
+
+Dataset Used:
+marks.csv (Student marks dataset)
+
+Source:
+Kaggle – Students Performance in Exams Dataset
+
+How the Dataset is Used:
+The dataset is loaded using pandas.
+Average marks are calculated for students.
+Highest and lowest scorer are identified.
+Bar chart and histogram are generated using matplotlib for visualization.
+No data is hardcoded. All analysis is done dynamically using the dataset.
