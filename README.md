@@ -2,13 +2,13 @@
 # PyTech Arena 2026 – Level 2 Submission
 
 ## Team Name:
-(Write Your Team Name Here)
+(ALPHA MALES)
 
 ---
 
 # Project 1: Student Marks Analyzer (Problem 3)
 
-## Description
+Description
 This project analyzes student marks using Python.
 
 ## Features
